@@ -20,5 +20,5 @@ def extrair_texto_pdf(caminho_arquivo):
             print('\n--------------------------------\n')
 
 # Exemplo de uso
-caminho_do_pdf = 'C:\\Users\\2009303\\Downloads\\DoD_DevSecOps_Fundamentals_Guidebook.pdf'
+caminho_do_pdf = 'file.pdf'  # Substitua pelo caminho do seu arquivo PDF
 extrair_texto_pdf(caminho_do_pdf)
